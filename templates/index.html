@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Clara AI Agent Generator</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<h1>Clara AI Automation</h1>
+
+<h2>Upload Transcripts</h2>
+
+<form action="/upload" method="post" enctype="multipart/form-data">
+
+<label>Demo Call Transcript</label>
+<input type="file" name="demo" required>
+
+<br><br>
+
+<label>Onboarding Call Transcript</label>
+<input type="file" name="onboarding" required>
+
+<br><br>
+
+<button type="submit">Generate Agent</button>
+
+</form>
+
+<hr>
+
+<h2>Generated Accounts</h2>
+
+<ul>
+
+{% if accounts %}
+
+{% for account in accounts %}
+
+<li>{{ account }}</li>
+
+{% endfor %}
+
+{% else %}
+
+<p>No accounts generated yet</p>
+
+{% endif %}
+
+</ul>
+
+</body>
+
+</html>
