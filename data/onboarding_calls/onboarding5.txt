@@ -1,0 +1,25 @@
+Bharat: Hi Daniel, let's finalize how the Clara AI assistant should handle your plumbing calls.
+
+Daniel: Sure.
+
+Bharat: First, confirm your business hours.
+
+Daniel: Monday through Friday from 8 AM to 6 PM.
+
+Bharat: And what should be considered an emergency?
+
+Daniel: Burst pipes, severe water leaks, and flooding.
+
+Bharat: For those emergencies should the system transfer the call?
+
+Daniel: Yes, transfer immediately to our emergency technician.
+
+Bharat: If the transfer fails?
+
+Daniel: The system should collect the customer's name, phone number, and address so we can call them back.
+
+Bharat: Perfect. For normal plumbing requests?
+
+Daniel: Just collect the details and schedule a follow up during business hours.
+
+Bharat: Great, we'll configure the AI assistant accordingly.

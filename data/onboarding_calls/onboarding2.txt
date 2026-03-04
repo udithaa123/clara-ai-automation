@@ -1,0 +1,33 @@
+Bharat: Hi Mark, thanks again for joining the onboarding call. Today we will finalize how the Clara AI answering agent should handle your calls.
+
+Mark: Sounds good.
+
+Bharat: First, let's confirm your business hours.
+
+Mark: Our office hours are Monday through Friday from 8 AM to 5 PM.
+
+Bharat: Great. During those hours the AI assistant will greet the caller, ask the reason for the call, and collect their name and phone number.
+
+Mark: Yes, that works.
+
+Bharat: Now let's define what should count as an emergency.
+
+Mark: For us, sprinkler leaks and unexpected fire alarm triggers are emergencies.
+
+Bharat: And when those occur, should the system transfer the call?
+
+Mark: Yes, emergency calls should be transferred immediately to our on-call technician.
+
+Bharat: Understood. And if the transfer fails?
+
+Mark: If nobody answers within about 60 seconds, the AI assistant should collect the caller's name, phone number, and building address so our dispatch team can call them back.
+
+Bharat: Perfect. What about non-emergency calls like inspection requests?
+
+Mark: Those calls can be logged and our office staff will follow up during business hours.
+
+Bharat: Great. One more question — do you use ServiceTrade?
+
+Mark: Yes, but please make sure the system never automatically creates sprinkler jobs in ServiceTrade.
+
+Bharat: Noted. We'll add that rule as an integration constraint.

@@ -1,0 +1,14 @@
+{
+  "account_id": "account_4a73832a",
+  "company_name": "Unknown",
+  "services_supported": [
+    "hvac"
+  ],
+  "emergency_definition": [],
+  "business_hours": null,
+  "questions_or_unknowns": [],
+  "notes": "Generated from demo transcript",
+  "emergency_routing_rules": [
+    "transfer to dispatch"
+  ]
+}

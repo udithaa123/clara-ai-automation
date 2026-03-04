@@ -1,0 +1,35 @@
+Nick: Hi Ben, thanks for joining the call today. Before we start, I just want to introduce myself. I'm Nick from Clara AI. We work with service businesses across North America to help automate inbound phone calls using AI voice agents.
+
+Ben: Hi Nick, nice to meet you. Thanks for reaching out. I'm interested to see how this could help our business because we get a lot of calls during the day.
+
+Nick: Absolutely, that's exactly what we help with. Before we show the system, could you tell us a little bit about your company and the kind of services you provide?
+
+Ben: Sure. My company is Ben's Electrical Solutions. We mainly handle residential and commercial electrical work. That includes electrical repairs, panel upgrades, wiring installations, lighting installation, and general electrical maintenance.
+
+Nick: That sounds great. And how do customers usually contact you today?
+
+Ben: Most customers call our office phone number. Sometimes it gets really busy, especially during the mornings when people are reporting electrical issues.
+
+Nick: I see. Do you also get emergency calls?
+
+Ben: Yes, we do. For example if someone has a power outage, electrical sparks, or exposed wiring, those situations are considered emergencies and we try to respond quickly.
+
+Nick: Understood. What are your regular business hours?
+
+Ben: We are open Monday through Friday from 8 AM to 6 PM. During those hours our office staff answers calls and schedules jobs for our technicians.
+
+Nick: And what happens if someone calls outside of those hours?
+
+Ben: Usually the call goes to voicemail. Sometimes customers leave a message but many times we miss those opportunities.
+
+Nick: That's exactly where Clara can help. The AI answering agent can answer the call, ask the customer about the issue, collect their name and phone number, and determine whether the issue is an emergency or a standard service request.
+
+Ben: That would be really helpful because we don't want to miss emergency calls.
+
+Nick: Right. For emergencies like power outages or electrical sparks, the system could immediately route the call to your on-call technician. For non-emergency requests, it can collect details and schedule a follow up during business hours.
+
+Ben: That sounds great. If the system can collect the caller's name, phone number, and address, that would be very helpful for our dispatch team.
+
+Nick: Perfect. That information can easily be captured by the AI assistant. After collecting the details it can either transfer the call or log the request for your team.
+
+Ben: Nice. I'm definitely interested in seeing how this could work in practice.

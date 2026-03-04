@@ -1,0 +1,43 @@
+Bharat: Hi Ben, thanks again for joining the onboarding call. Today we want to finalize how the Clara AI answering agent should handle your incoming calls.
+
+Ben: Sounds good. I'm excited to get this set up because our call volume has been increasing lately.
+
+Bharat: Great. Let's start by confirming your business hours.
+
+Ben: Our office hours are Monday to Friday from 8 AM to 6 PM Eastern Time.
+
+Bharat: Perfect. During those hours the AI assistant will greet callers, ask about the reason for their call, collect their name and phone number, and then route the call to the appropriate team member if needed.
+
+Ben: Yes, that works well.
+
+Bharat: Now let's define what should count as an emergency.
+
+Ben: For us, emergencies include power outages, electrical sparks, exposed wires, or burning smells coming from electrical equipment.
+
+Bharat: Understood. And when an emergency is detected, what should the system do?
+
+Ben: Those calls should be transferred immediately to our emergency technician or the dispatch phone number.
+
+Bharat: Perfect. And if the transfer fails or nobody answers within about 60 seconds?
+
+Ben: If that happens, the system should collect the caller's name, phone number, and service address, then notify our dispatch team so we can follow up quickly.
+
+Bharat: That makes sense. Now for non-emergency calls such as lighting installation or general electrical maintenance requests, how should those be handled?
+
+Ben: For those, the AI assistant can collect the caller's information and let them know that someone from our office will contact them during the next business day.
+
+Bharat: Got it. One more question regarding your internal systems. Do you use any job management software like ServiceTrade?
+
+Ben: Yes, we use ServiceTrade for some of our scheduling and job tracking.
+
+Bharat: In that case, are there any restrictions on automatically creating jobs through integrations?
+
+Ben: Yes. Please make sure that the AI system never automatically creates electrical jobs in ServiceTrade. Our dispatch team needs to review the requests first.
+
+Bharat: Understood. We'll add that as an integration constraint in the system configuration.
+
+Ben: Perfect.
+
+Bharat: Great. With these rules defined, we can configure your Clara AI answering agent to properly route emergency calls, collect customer information, and ensure your team never misses important service requests.
+
+Ben: That sounds excellent. I'm looking forward to using it.

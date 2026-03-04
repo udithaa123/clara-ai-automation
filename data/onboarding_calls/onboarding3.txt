@@ -1,0 +1,25 @@
+Bharat: Hi Sarah, today we want to confirm how the Clara AI assistant should handle your HVAC service calls.
+
+Sarah: Great.
+
+Bharat: Let's confirm your business hours.
+
+Sarah: Monday through Saturday from 7 AM to 7 PM.
+
+Bharat: Perfect. Now let's define emergency situations.
+
+Sarah: Emergencies include complete AC failure during extreme heat or furnace failures in winter.
+
+Bharat: When an emergency is detected, what should the system do?
+
+Sarah: Transfer the call to the emergency technician immediately.
+
+Bharat: And if the transfer fails?
+
+Sarah: The system should collect the caller's information and notify our dispatch team.
+
+Bharat: Understood. For non-emergency calls like maintenance requests?
+
+Sarah: The system can collect the request and our team will schedule the job later.
+
+Bharat: Perfect.

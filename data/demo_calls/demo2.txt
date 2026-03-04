@@ -1,0 +1,37 @@
+Nick: Hi Mark, thank you for joining us today. Before we begin, I want to quickly introduce ourselves. I'm Nick from Clara AI, and with me is Bharat who works closely with service businesses to configure our AI answering agents.
+
+Mark: Hi Nick, nice to meet you both.
+
+Nick: Great to meet you too. To start off, could you tell us a little about your company and the services you provide?
+
+Mark: Sure. My company is Mark's Fire Protection Services. We mainly install and maintain fire protection systems including sprinkler systems, fire alarms, and fire extinguishers.
+
+Bharat: That sounds great. Do most of your customers contact you by phone?
+
+Mark: Yes, most of our customers call our office when they need inspections, maintenance, or when something goes wrong with their system.
+
+Nick: What kind of issues would be considered emergencies for your company?
+
+Mark: Emergencies would include things like sprinkler leaks, fire alarms going off unexpectedly, or a system malfunction in a commercial building.
+
+Bharat: Understood. And what are your normal operating hours?
+
+Mark: Our business hours are Monday through Friday from 8 AM to 5 PM.
+
+Nick: And what happens if a customer calls after those hours?
+
+Mark: Usually the call goes to voicemail, but we do have an on-call technician for emergencies.
+
+Bharat: Perfect. Clara's AI answering agent could help by answering those calls, asking the customer about the issue, and determining if it is an emergency.
+
+Mark: That would be helpful because sometimes we miss important calls.
+
+Nick: Exactly. For emergencies like sprinkler leaks or alarm failures, the AI assistant can immediately route the call to your emergency technician.
+
+Mark: That would definitely help improve our response time.
+
+Bharat: For non-emergency calls like inspection scheduling or general maintenance, the system can collect the caller's name, phone number, and service address so your office can follow up during business hours.
+
+Mark: That sounds really useful. We receive many calls like that during the day.
+
+Nick: Perfect. That gives us a good understanding of how your calls should be handled.

@@ -1,0 +1,31 @@
+Nick: Hi Sarah, thanks for joining the demo call today. I'm Nick from Clara AI.
+
+Sarah: Hi Nick, happy to be here.
+
+Nick: Could you tell us a little about your company?
+
+Sarah: Sure. I run Sarah's HVAC Services. We specialize in heating, ventilation, and air conditioning installation and repair.
+
+Bharat: Great. What types of calls do you usually receive?
+
+Sarah: Most customers call us when their air conditioner stops working or when they need maintenance.
+
+Nick: Are there any calls that would be considered urgent?
+
+Sarah: Yes, during summer when someone loses air conditioning completely, that can be an urgent situation.
+
+Bharat: Understood. And what are your normal business hours?
+
+Sarah: Our office is open Monday through Saturday from 7 AM to 7 PM.
+
+Nick: And after hours?
+
+Sarah: We usually have an emergency technician available for urgent issues.
+
+Nick: Clara's AI assistant can answer calls, ask customers about their issue, and determine if it's urgent or not.
+
+Sarah: That would really help because our phones get very busy during peak seasons.
+
+Bharat: The assistant can also collect customer details and create a record for your team.
+
+Sarah: That sounds very useful.

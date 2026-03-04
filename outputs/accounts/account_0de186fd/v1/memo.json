@@ -1,0 +1,15 @@
+{
+  "account_id": "account_0de186fd",
+  "company_name": "Unknown",
+  "services_supported": [
+    "sprinkler",
+    "alarm",
+    "inspection"
+  ],
+  "emergency_definition": [
+    "sprinkler leak"
+  ],
+  "business_hours": null,
+  "questions_or_unknowns": [],
+  "notes": "Generated from demo transcript"
+}

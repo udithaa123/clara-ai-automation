@@ -1,0 +1,14 @@
+{
+  "account_id": "account_f067df9e",
+  "company_name": "Unknown",
+  "services_supported": [
+    "electrical"
+  ],
+  "emergency_definition": [
+    "power outage",
+    "electrical sparks"
+  ],
+  "business_hours": null,
+  "questions_or_unknowns": [],
+  "notes": "Generated from demo transcript"
+}

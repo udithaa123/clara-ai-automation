@@ -1,0 +1,31 @@
+Nick: Hi Daniel, thanks for taking the time to speak with us today.
+
+Daniel: Hi Nick, glad to join.
+
+Nick: Could you tell us about your company?
+
+Daniel: Sure. I run Daniel's Plumbing Services. We provide plumbing repairs, pipe installations, drain cleaning, and water heater maintenance.
+
+Bharat: What kinds of calls do you usually receive?
+
+Daniel: Customers usually call when they have leaking pipes, clogged drains, or water heater issues.
+
+Nick: Are any of those emergencies?
+
+Daniel: Yes, major pipe leaks or burst pipes are emergencies.
+
+Bharat: And what are your business hours?
+
+Daniel: Monday through Friday from 8 AM to 6 PM.
+
+Nick: What happens after hours?
+
+Daniel: Emergency plumbing issues can still be reported and our on-call technician handles them.
+
+Nick: Clara's AI assistant could answer those calls and determine if the issue is urgent.
+
+Daniel: That would be helpful because plumbing emergencies often happen late at night.
+
+Bharat: Exactly. The system can collect the caller's details and route emergency calls immediately.
+
+Daniel: Sounds good.

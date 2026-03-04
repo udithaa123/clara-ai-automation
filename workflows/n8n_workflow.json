@@ -1,0 +1,71 @@
+{
+  "name": "Clara AI Demo Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "data/demo_calls",
+        "events": [
+          "add"
+        ]
+      },
+      "id": "1",
+      "name": "Watch Demo Calls Folder",
+      "type": "n8n-nodes-base.watch",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "command": "python scripts/run_pipeline.py"
+      },
+      "id": "2",
+      "name": "Run Python Pipeline",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        500,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "functionCode": "return [{ message: \"Pipeline executed successfully\" }];"
+      },
+      "id": "3",
+      "name": "Log Success",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        750,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Watch Demo Calls Folder": {
+      "main": [
+        [
+          {
+            "node": "Run Python Pipeline",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Run Python Pipeline": {
+      "main": [
+        [
+          {
+            "node": "Log Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

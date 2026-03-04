@@ -1,0 +1,19 @@
+{
+  "account_id": "account_9fe827b9",
+  "company_name": "Unknown",
+  "services_supported": [
+    "electrical"
+  ],
+  "emergency_definition": [
+    "electrical sparks"
+  ],
+  "business_hours": null,
+  "questions_or_unknowns": [],
+  "notes": "Generated from demo transcript",
+  "emergency_routing_rules": [
+    "transfer to dispatch"
+  ],
+  "integration_constraints": [
+    "never create sprinkler jobs in ServiceTrade"
+  ]
+}

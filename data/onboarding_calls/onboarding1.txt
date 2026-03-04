@@ -1,0 +1,7 @@
+Emergency electrical calls must go directly to dispatch.
+
+Non emergency installation requests should be scheduled during business hours.
+
+If transfer fails after 60 seconds, dispatch must be notified.
+
+Never create electrical jobs in ServiceTrade automatically.
